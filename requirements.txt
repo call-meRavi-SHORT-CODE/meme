@@ -1,4 +1,5 @@
 diffusers
+gunicorn
 transformers
 accelerate
 mediapy
