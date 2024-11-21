@@ -1,8 +1,0 @@
-diffusers
-gunicorn
-transformers
-accelerate
-mediapy
-peft
-langchain-groq
-gradio
